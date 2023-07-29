@@ -1,4 +1,4 @@
-                                      <h2>- 👋 Hi, I’m @SACHIN-panwar</h2>
+                   <h2>- 👋 Hi, I’m @SACHIN-panwar</h2>
 <h5>- 👀 I’m interested in coding</h5>
 <h5>- 🌱 I’m currently learning DSA</h5>
 <!--- 💞️ I’m looking to collaborate on ...--->
